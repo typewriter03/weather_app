@@ -7,6 +7,7 @@ This is a web-based Weather Analytics Dashboard built from scratch using React, 
 A complete video walkthrough of this project is available, explaining the core features and architecture.
 
 **[[Link to Video Here](https://youtu.be/pQR6W6FI0NU)]**
+https://www.youtube.com/watch?v=pQR6W6FI0NU
 
 ## Core Features
 
